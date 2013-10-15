@@ -19,6 +19,8 @@ public class ActivitySqliteMain extends ListActivity implements OnClickListener{
 	/**
 	 * VARIABLES
 	 */
+
+// trinh chi minh
 	public static final String TAG = "ActivitySqliteMain";
 	
 	CommentDataSource commentDataSource;
